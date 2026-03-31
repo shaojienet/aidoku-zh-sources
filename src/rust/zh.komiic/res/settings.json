@@ -1,0 +1,14 @@
+[
+  {
+    "type": "group",
+    "title": "Cookie",
+    "items": [
+      {
+        "type": "text",
+        "key": "cookie",
+        "placeholder": "Cookie (可选，用于提高每日阅读限额)",
+        "default": ""
+      }
+    ]
+  }
+]
